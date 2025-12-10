@@ -1,2 +1,2 @@
 # Language
-Meta files for the EraMC.net server
+Meta files for the BetterAttack.net server

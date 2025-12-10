@@ -2,7 +2,7 @@
     "CHEATING": {
         "de-DE": "Cheating",
         "en-US": "Cheating",
-        "permission": "eramc.punish.offend.cheating",
+        "permission": "betterattack.punish.offend.cheating",
         "durations": [
             {
                 "weight": 1,
@@ -29,7 +29,7 @@
     "OFFENSIVE_LANGUAGE": {
         "de-DE": "Beleidigende Sprache",
         "en-US": "Offensive Language",
-        "permission": "eramc.punish.offend.offensive_language",
+        "permission": "betterattack.punish.offend.offensive_language",
         "durations": [
             {
                 "weight": 1,
@@ -71,7 +71,7 @@
     "NS_IDEOLOGY_CONTENT": {
         "de-DE": "Verbreitung nationalsozialistischer Inhalte",
         "en-US": "Distribution of National Socialist Content",
-        "permission": "eramc.punish.offend.ns_ideology_content",
+        "permission": "betterattack.punish.offend.ns_ideology_content",
         "durations": [
             {
                 "weight": 1,
@@ -83,7 +83,7 @@
     "NSFW_CONTENT": {
         "de-DE": "Verbreitung von NSFW-Inhalten",
         "en-US": "Distribution of NSFW Content",
-        "permission": "eramc.punish.offend.nsfw_content",
+        "permission": "betterattack.punish.offend.nsfw_content",
         "durations": [
             {
                 "weight": 1,
@@ -115,7 +115,7 @@
     "SPAMMING": {
         "de-DE": "Spamming",
         "en-US": "Spamming",
-        "permission": "eramc.punish.offend.spamming",
+        "permission": "betterattack.punish.offend.spamming",
         "type": ["mute", "kick"],
         "durations": [
             {
@@ -152,7 +152,7 @@
     "TROLLING": {
         "de-DE": "Trolling",
         "en-US": "Trolling",
-        "permission": "eramc.punish.offend.trolling",
+        "permission": "betterattack.punish.offend.trolling",
         "durations": [
             {
                 "weight": 1,
@@ -184,7 +184,7 @@
     "UNNECESSARY_OVERLOADING_SERVER": {
         "de-DE": "Unnötiges auslasten des Servers",
         "en-US": "Unnecessary overloading the Server",
-        "permission": "eramc.punish.offend.unnecessary_overloading_server",
+        "permission": "betterattack.punish.offend.unnecessary_overloading_server",
         "durations": [
             {
                 "weight": 1,
@@ -206,7 +206,7 @@
     "BAN_EVASION": {
         "de-DE": "Banumgehung",
         "en-US": "Ban Evasion",
-        "permission": "eramc.punish.offend.ban_evasion",
+        "permission": "betterattack.punish.offend.ban_evasion",
         "durations": [
             {
                 "weight": 1,
@@ -218,7 +218,7 @@
     "REAL_MONEY_TRADING": {
         "de-DE": "Echtgeldhandel",
         "en-US": "Trading with real money",
-        "permission": "eramc.punish.offend.real_money_trading",
+        "permission": "betterattack.punish.offend.real_money_trading",
         "durations": [
             {
                 "weight": 1,
@@ -230,7 +230,7 @@
     "CROSS_SERVER_TRADING": {
         "de-DE": "Cross-Server Trading",
         "en-US": "Cross-Server Trading",
-        "permission": "eramc.punish.offend.cross_server_trading",
+        "permission": "betterattack.punish.offend.cross_server_trading",
         "durations": [
             {
                 "weight": 1,
@@ -242,7 +242,7 @@
     "RACISM": {
         "de-DE": "Rassismus",
         "en-US": "Racism",
-        "permission": "eramc.punish.offend.racism",
+        "permission": "betterattack.punish.offend.racism",
         "durations": [
             {
                 "weight": 1,
@@ -259,7 +259,7 @@
     "ADVERTISING": {
         "de-DE": "Werbung",
         "en-US": "Advertising",
-        "permission": "eramc.punish.offend.advertising",
+        "permission": "betterattack.punish.offend.advertising",
         "duration": [
             {
                 "weight": 1,
@@ -291,7 +291,7 @@
     "ACCOUNT_SELLING": {
         "de-DE": "Accountverkauf",
         "en-US": "Account selling",
-        "permission": "eramc.punish.offend.account_selling",
+        "permission": "betterattack.punish.offend.account_selling",
         "durations": [
             {
                 "weight": 1,
@@ -303,7 +303,7 @@
     "BUG_ABUSE": {
         "de-DE": "Bug-Abuse",
         "en-US": "Bug Abuse",
-        "permission": "eramc.punish.offend.bug_abuse",
+        "permission": "betterattack.punish.offend.bug_abuse",
         "durations": [
             {
                 "weight": 1,
@@ -325,7 +325,7 @@
     "DUPING": {
         "de-DE": "Duping",
         "en-US": "Duping",
-        "permission": "eramc.punish.offend.duping",
+        "permission": "betterattack.punish.offend.duping",
         "durations": [
             {
                 "weight": 1,
@@ -337,7 +337,7 @@
     "BEGGING_FOR_RANK_OR_EXTRA_PERMS": {
         "de-DE": "Betteln um Rang oder extra Rechte",
         "en-US": "Begging for rank or extra permissions",
-        "permission": "eramc.punish.offend.begging_for_rank_or_extra_perms",
+        "permission": "betterattack.punish.offend.begging_for_rank_or_extra_perms",
         "type": ["mute"],
         "durations": [
             {
@@ -375,7 +375,7 @@
     "DOXXING": {
         "de-DE": "Doxxing",
         "en-US": "Doxxing",
-        "permission": "eramc.punish.offend.doxxing",
+        "permission": "betterattack.punish.offend.doxxing",
         "durations": [
             {
                 "weight": 1,
@@ -387,7 +387,7 @@
     "HAUSVERBOT": {
         "de-DE": "Hausverbot",
         "en-US": "Excluded from playing",
-        "permission": "eramc.punish.offend.hausverbot",
+        "permission": "betterattack.punish.offend.hausverbot",
         "durations": [
             {
                 "weight": 1,
@@ -399,7 +399,7 @@
     "COMBAT_EVADING": {
         "de-DE": "Combat-Evading",
         "en-US": "Combat Evading",
-        "permission": "eramc.punish.offend.combat_evading",
+        "permission": "betterattack.punish.offend.combat_evading",
         "durations": [
             {
                 "weight": 1,
@@ -421,7 +421,7 @@
     "EXTREMIST_CONTENT": {
         "de-DE": "Extremistische Inhalte",
         "en-US": "Extremist Content",
-        "permission": "eramc.punish.offend.extremist_content",
+        "permission": "betterattack.punish.offend.extremist_content",
         "durations": [
             {
                 "weight": 1,
@@ -433,7 +433,7 @@
     "BOT_ACCOUNT": {
         "de-DE": "Bot-Account",
         "en-US": "Bot Account",
-        "permission": "eramc.punish.offend.bot_account",
+        "permission": "betterattack.punish.offend.bot_account",
         "durations": [
             {
                 "weight": 1,
@@ -445,7 +445,7 @@
     "HARASSMENT": {
         "de-DE": "Belästigung",
         "en-US": "Harassment",
-        "permission": "eramc.punish.offend.harassment",
+        "permission": "betterattack.punish.offend.harassment",
         "durations": [
             {
                 "weight": 1,
@@ -472,7 +472,7 @@
     "IMPERSONATION": {
         "de-DE": "Impersonation",
         "en-US": "Impersonation",
-        "permission": "eramc.punish.offend.impersonation",
+        "permission": "betterattack.punish.offend.impersonation",
         "durations": [
             {
                 "weight": 1,
@@ -499,7 +499,7 @@
     "DANGEROUS_CONTENT": {
         "de-DE": "Gefährliche Inhalte",
         "en-US": "Dangerous Content",
-        "permission": "eramc.punish.offend.dangerous_content",
+        "permission": "betterattack.punish.offend.dangerous_content",
         "durations": [
             {
                 "weight": 1,
@@ -526,7 +526,7 @@
     "CONSPIRACY": {
         "de-DE": "Verschwörungstheorien",
         "en-US": "Conspiracy Theories",
-        "permission": "eramc.punish.offend.conspiracy",
+        "permission": "betterattack.punish.offend.conspiracy",
         "durations": [
             {
                 "weight": 1,
@@ -538,7 +538,7 @@
     "THREATS": {
         "de-DE": "Bedrohungen",
         "en-US": "Threats",
-        "permission": "eramc.punish.offend.threats",
+        "permission": "betterattack.punish.offend.threats",
         "durations": [
             {
                 "weight": 1,
@@ -565,7 +565,7 @@
     "SAFETY_BAN": {
         "de-DE": "Sicherheits-Ban",
         "en-US": "Safety Ban",
-        "permission": "eramc.punish.offend.safety_ban",
+        "permission": "betterattack.punish.offend.safety_ban",
         "durations": [
             {
                 "weight": 1,

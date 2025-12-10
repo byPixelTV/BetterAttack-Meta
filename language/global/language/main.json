@@ -1,6 +1,0 @@
-{
-    "SUCCESS.lang.select": {
-        "en-US": "[grey]Your [era_purple]language</color> is now set to [era_purple][language]!</color> It is [yellow]recommended</color> to [era_purple]reconnect</color> to make all [era_purple]translations</color> load correctly.</color>",
-        "de-DE": "[grey]Deine [era_purple]Sprache</color> ist jetzt auf [era_purple][language]</color> gesetzt! Es wird [yellow]empfohlen</color>, sich [era_purple]neu zu verbinden</color>, um alle [era_purple]Übersetzungen</color> korrekt zu laden.</color>"
-    }
-}
