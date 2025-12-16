@@ -245,7 +245,6 @@
         "de-DE": "Spamming",
         "en-US": "Spamming",
         "permission": "betterattack.punish.offend.spamming",
-        "type": ["mute", "kick"],
         "durations": [
             {
                 "weight": 1,
