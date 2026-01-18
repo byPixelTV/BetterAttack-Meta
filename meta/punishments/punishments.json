@@ -627,6 +627,18 @@
             }
         ]
     },
+    "EVENT_RULE_VIOLATION": {
+        "en-US": "Violating Event Rules",
+        "de-DE": "Verstoß gegen Event-Regeln",
+        "permission": "betterattack.punish.offend.event_rule_violation",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "1h",
+                "type": "ban"
+            }
+        ]
+    },
     "PVP_ABUSE": {
         "en-US": "PvP Abuse",
         "de-DE": "PvP-Abuse",
