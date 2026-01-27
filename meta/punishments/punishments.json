@@ -197,6 +197,23 @@
             }
         ]
     },
+    "HATE_SPEECH_SEXUALITY": {
+        "de-DE": "Hassrede gegen Sexualität",
+        "en-US": "Hate Speech against Sexuality",
+        "permission": "betterattack.punish.offend.hate_speech_sexuality",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "30d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
     "NATIONALSOZIALISTISCHE_INHALTE": {
         "de-DE": "Verbreitung nationalsozialistischer Inhalte",
         "en-US": "Distribution of National Socialist Content",
