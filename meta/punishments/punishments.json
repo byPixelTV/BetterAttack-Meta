@@ -383,7 +383,7 @@
         "de-DE": "Werbung",
         "en-US": "Advertising",
         "permission": "betterattack.punish.offend.advertising",
-        "duration": [
+        "durations": [
             {
                 "weight": 1,
                 "duration": "1d",
@@ -668,4 +668,5 @@
             }
         ]
     }
+
 }
