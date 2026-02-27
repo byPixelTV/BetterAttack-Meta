@@ -40,6 +40,28 @@
             }
         ]
     },
+    "MOBBING": {
+        "en-US": "Bullying",
+        "de-DE": "Mobbing",
+        "permission": "betterattack.punish.offend.mobbing",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "2w",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "4w",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
     "BOT_ACCOUNT": {
         "en-US": "Bot Account",
         "de-DE": "Bot Account",
