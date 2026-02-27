@@ -1,255 +1,25 @@
 {
-    "CHEATING": {
-        "de-DE": "Cheating",
-        "en-US": "Cheating",
-        "permission": "betterattack.punish.offend.cheating",
+    "SEED_CRACKER": {
+        "en-US": "Seedcracker",
+        "de-DE": "Seedcracker",
+        "permission": "betterattack.punish.offend.seed_cracker",
         "durations": [
             {
                 "weight": 1,
-                "duration": "14d",
-                "type": "ban"
-            },
-            {
-                "weight": 2,
-                "duration": "1mo",
-                "type": "ban"
-            },
-            {
-                "weight": 3,
-                "duration": "3mo",
-                "type": "ban"
-            },
-            {
-                "weight": 4,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
-    "UNANGEBRACHTER_NUTZERNAME": {
-        "de-DE": "Unangebrachter Benutzername",
-        "en-US": "Inappropriate Username",
-        "permission": "betterattack.punish.offend.inappropriate_username",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "1m",
-                "type": "ban"
-            },
-            {
-                "weight": 2,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
-    "UNANGEBRACHTER_SKIN": {
-        "de-DE": "Unangebrachter Skin",
-        "en-US": "Inappropriate Skin",
-        "permission": "betterattack.punish.offend.inappropriate_skin",
-        "durations": [
-            {
-                "weight": 1,
-                "type": "kick"
-            },
-            {
-                "weight": 2,
-                "duration": "1d",
-                "type": "ban"
-            },
-            {
-                "weight": 3,
                 "duration": "1w",
                 "type": "ban"
             },
             {
-                "weight": 4,
-                "duration": "1mo",
-                "type": "ban"
-            },
-            {
-                "weight": 5,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
-    "TP_TRAPPING": {
-        "de-DE": "TP-Trapping",
-        "en-US": "TP-Trapping",
-        "permission": "betterattack.punish.offend.tp_trapping",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "6h",
-                "type": "ban"
-            },
-            {
-                "weight": 2,
-                "duration": "12h",
-                "type": "ban"
-            },
-            {
-                "weight": 3,
-                "duration": "1d",
-                "type": "ban"
-            },
-            {
-                "weight": 4,
-                "duration": "1w",
-                "type": "ban"
-            }
-        ]
-    },
-    "GRIEFING": {
-        "de-DE": "Griefing",
-        "en-US": "Griefing",
-        "permission": "betterattack.punish.offend.griefing",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "6h",
-                "type": "ban"
-            },
-            {
-                "weight": 2,
-                "duration": "1d",
-                "type": "ban"
-            },
-            {
-                "weight": 3,
-                "duration": "1w",
-                "type": "ban"
-            },
-            {
-                "weight": 4,
-                "duration": "1mo",
-                "type": "ban"
-            },
-            {
-                "weight": 5,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
-    "BELEIDIGUNG": {
-        "de-DE": "Beleidigung",
-        "en-US": "Offensive Language",
-        "permission": "betterattack.punish.offend.offensive_language",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "3h",
-                "type": "mute"
-            },
-            {
-                "weight": 2,
-                "duration": "12h",
-                "type": "mute"
-            },
-            {
-                "weight": 3,
-                "duration": "1d",
-                "type": "mute"
-            },
-            {
-                "weight": 4,
-                "duration": "1d",
-                "type": "ban"
-            },
-            {
-                "weight": 5,
-                "duration": "1w",
-                "type": "ban"
-            }
-        ]
-    },
-    "SCHWERE_BELEIDIGUNG": {
-        "de-DE": "Schwere Beleidigung",
-        "en-US": "Serious Insults",
-        "permission": "betterattack.punish.offend.serious_insults",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "6h",
-                "type": "ban"
-            },
-            {
-                "weight": 2,
-                "duration": "1d",
-                "type": "ban"
-            },
-            {
-                "weight": 3,
-                "duration": "1w",
-                "type": "ban"
-            },
-            {
-                "weight": 4,
-                "duration": "1mo",
-                "type": "ban"
-            },
-            {
-                "weight": 5,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
-    "HATE_SPEECH_SEXUALITY": {
-        "de-DE": "Hassrede gegen Sexualität",
-        "en-US": "Hate Speech against Sexuality",
-        "permission": "betterattack.punish.offend.hate_speech_sexuality",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "30d",
-                "type": "ban"
-            },
-            {
                 "weight": 2,
                 "duration": "permanent",
                 "type": "ban"
             }
         ]
     },
-    "RAGEBAITING": {
-        "de-DE": "Ragebaiting",
-        "en-US": "Ragebaiting",
-        "permission": "betterattack.punish.offend.ragebaiting",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "1h",
-                "type": "ban"
-            },
-            {
-                "weight": 2,
-                "duration": "3h",
-                "type": "ban"
-            },
-            {
-                "weight": 3,
-                "duration": "3h",
-                "type": "ban"
-            },
-            {
-                "weight": 4,
-                "duration": "6h",
-                "type": "ban"
-            },
-            {
-                "weight": 5,
-                "duration": "1d",
-                "type": "ban"
-            }
-        ]
-    },
-    "NATIONALSOZIALISTISCHE_INHALTE": {
-        "de-DE": "Verbreitung nationalsozialistischer Inhalte",
-        "en-US": "Distribution of National Socialist Content",
-        "permission": "betterattack.punish.offend.ns_ideology_content",
+    "SERVER_WERBUNG": {
+        "en-US": "Advertising other Servers",
+        "de-DE": "Server Werbung",
+        "permission": "betterattack.punish.offend.server_werbung",
         "durations": [
             {
                 "weight": 1,
@@ -258,260 +28,10 @@
             }
         ]
     },
-    "NSFW_INHALTE": {
-        "de-DE": "Verbreitung von NSFW-Inhalten",
-        "en-US": "Distribution of NSFW Content",
-        "permission": "betterattack.punish.offend.nsfw_content",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "1d",
-                "type": "ban"
-            },
-            {
-                "weight": 2,
-                "duration": "1w",
-                "type": "ban"
-            },
-            {
-                "weight": 3,
-                "duration": "2w",
-                "type": "ban"
-            },
-            {
-                "weight": 4,
-                "duration": "1mo",
-                "type": "ban"
-            },
-            {
-                "weight": 5,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
-    "SPAMMING": {
-        "de-DE": "Spamming",
-        "en-US": "Spamming",
-        "permission": "betterattack.punish.offend.spamming",
-        "durations": [
-            {
-                "weight": 1,
-                "type": "kick"
-            },
-            {
-                "weight": 2,
-                "duration": "1h",
-                "type": "mute"
-            },
-            {
-                "weight": 3,
-                "duration": "12h",
-                "type": "mute"
-            },
-            {
-                "weight": 4,
-                "duration": "1d",
-                "type": "mute"
-            },
-            {
-                "weight": 5,
-                "duration": "3d",
-                "type": "mute"
-            },
-            {
-                "weight": 6,
-                "duration": "1w",
-                "type": "ban"
-            }
-        ]
-    },
-    "TROLLING": {
-        "de-DE": "Trolling",
-        "en-US": "Trolling",
-        "permission": "betterattack.punish.offend.trolling",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "1d",
-                "type": "ban"
-            },
-            {
-                "weight": 2,
-                "duration": "3d",
-                "type": "ban"
-            },
-            {
-                "weight": 3,
-                "duration": "1w",
-                "type": "ban"
-            },
-            {
-                "weight": 4,
-                "duration": "2w",
-                "type": "ban"
-            },
-            {
-                "weight": 5,
-                "duration": "1mo",
-                "type": "ban"
-            }
-        ]
-    },
-    "UNNECESSARY_OVERLOADING_SERVER": {
-        "de-DE": "Unnötiges auslasten des Servers",
-        "en-US": "Unnecessary overloading the Server",
-        "permission": "betterattack.punish.offend.unnecessary_overloading_server",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
-    "BAN_EVASION": {
-        "de-DE": "Banumgehung",
+    "BAN_UMGEHUNG": {
         "en-US": "Ban Evasion",
-        "permission": "betterattack.punish.offend.ban_evasion",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
-    "REAL_MONEY_TRADING": {
-        "de-DE": "Echtgeldhandel",
-        "en-US": "Trading with real money",
-        "permission": "betterattack.punish.offend.real_money_trading",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
-    "RACISM": {
-        "de-DE": "Rassismus",
-        "en-US": "Racism",
-        "permission": "betterattack.punish.offend.racism",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "30d",
-                "type": "ban"
-            },
-            {
-                "weight": 2,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
-    "ADVERTISING": {
-        "de-DE": "Werbung",
-        "en-US": "Advertising",
-        "permission": "betterattack.punish.offend.advertising",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "1d",
-                "type": "mute"
-            },
-            {
-                "weight": 2,
-                "duration": "1w",
-                "type": "ban"
-            },
-            {
-                "weight": 3,
-                "duration": "1mo",
-                "type": "ban"
-            },
-            {
-                "weight": 4,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
-    "ACCOUNT_SELLING": {
-        "de-DE": "Accountverkauf",
-        "en-US": "Account selling",
-        "permission": "betterattack.punish.offend.account_selling",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
-    "BUG_ABUSE": {
-        "de-DE": "Bug-Abuse",
-        "en-US": "Bug Abuse",
-        "permission": "betterattack.punish.offend.bug_abuse",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "1w",
-                "type": "ban"
-            },
-            {
-                "weight": 2,
-                "duration": "1mo",
-                "type": "ban"
-            },
-            {
-                "weight": 3,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
-    "DUPING": {
-        "de-DE": "Duping",
-        "en-US": "Duping",
-        "permission": "betterattack.punish.offend.duping",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
-    "DOXXING": {
-        "de-DE": "Doxxing",
-        "en-US": "Doxxing",
-        "permission": "betterattack.punish.offend.doxxing",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
-    "HAUSVERBOT": {
-        "de-DE": "Hausverbot",
-        "en-US": "Excluded from playing",
-        "permission": "betterattack.punish.offend.hausverbot",
-        "durations": [
-            {
-                "weight": 1,
-                "duration": "permanent",
-                "type": "ban"
-            }
-        ]
-    },
-    "EXTREMIST_CONTENT": {
-        "de-DE": "Extremistische Inhalte",
-        "en-US": "Extremist Content",
-        "permission": "betterattack.punish.offend.extremist_content",
+        "de-DE": "Ban Umgehung",
+        "permission": "betterattack.punish.offend.ban_umgehung",
         "durations": [
             {
                 "weight": 1,
@@ -521,8 +41,8 @@
         ]
     },
     "BOT_ACCOUNT": {
-        "de-DE": "Bot-Account",
         "en-US": "Bot Account",
+        "de-DE": "Bot Account",
         "permission": "betterattack.punish.offend.bot_account",
         "durations": [
             {
@@ -532,19 +52,146 @@
             }
         ]
     },
-    "HARASSMENT": {
-        "de-DE": "Belästigung",
+    "BUG_ABUSE": {
+        "en-US": "Bug Abuse",
+        "de-DE": "Bug Abuse",
+        "permission": "betterattack.punish.offend.bug_abuse",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "2w",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "3w",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "4w",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
+    "CHEATING": {
+        "en-US": "Cheating",
+        "de-DE": "Cheating",
+        "permission": "betterattack.punish.offend.cheating",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "2w",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "4w",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
+    "DOXXING": {
+        "en-US": "Doxxing",
+        "de-DE": "Doxxing",
+        "permission": "betterattack.punish.offend.doxxing",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
+    "DUPING": {
+        "en-US": "Duping",
+        "de-DE": "Duping",
+        "permission": "betterattack.punish.offend.duping",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "2w",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "4w",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
+    "EXTREMISTISCHE_INHALTE": {
+        "en-US": "Extremist Content",
+        "de-DE": "Extremistische Inhalte",
+        "permission": "betterattack.punish.offend.extremistische_inhalte",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
+    "GRIEFING": {
+        "en-US": "Griefing",
+        "de-DE": "Griefing",
+        "permission": "betterattack.punish.offend.griefing",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "4d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "2w",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "4w",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
+    "BELAESTIGUNG": {
         "en-US": "Harassment",
-        "permission": "betterattack.punish.offend.harassment",
+        "de-DE": "Belästigung",
+        "permission": "betterattack.punish.offend.belaestigung",
         "durations": [
             {
                 "weight": 1,
-                "duration": "1mo",
+                "duration": "2w",
                 "type": "ban"
             },
             {
                 "weight": 2,
-                "duration": "6mo",
+                "duration": "4w",
                 "type": "ban"
             },
             {
@@ -554,56 +201,538 @@
             }
         ]
     },
-    "CONSPIRACY": {
-        "de-DE": "Verschwörungstheorien",
-        "en-US": "Conspiracy Theories",
-        "permission": "betterattack.punish.offend.conspiracy",
+    "UNANGEMESSENER_SKIN": {
+        "en-US": "Inappropriate Skin",
+        "de-DE": "Unangemessener Skin",
+        "permission": "betterattack.punish.offend.unangemessener_skin",
         "durations": [
             {
                 "weight": 1,
+                "duration": "kick",
+                "type": "kick"
+            },
+            {
+                "weight": 2,
+                "duration": "12h",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "3d",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "6d",
+                "type": "ban"
+            }
+        ]
+    },
+    "UNANGEMESSENER_BENUTZERNAME": {
+        "en-US": "Inappropriate Username",
+        "de-DE": "Unangemessener Benutzername",
+        "permission": "betterattack.punish.offend.unangemessener_benutzername",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban",
+                "note": "Mit Aufhebungsmöglichkeit"
+            },
+            {
+                "weight": 2,
+                "duration": "permanent",
+                "type": "ban",
+                "note": "Staffel ausschluss"
+            },
+            {
+                "weight": 3,
                 "duration": "permanent",
                 "type": "ban"
             }
         ]
     },
-    "THREATS": {
-        "de-DE": "Bedrohungen",
+    "NS_IDEOLOGIE": {
+        "en-US": "NS Ideology",
+        "de-DE": "NS Ideologie",
+        "permission": "betterattack.punish.offend.ns_ideologie",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban",
+                "note": "Staffel ausschluss"
+            },
+            {
+                "weight": 2,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
+    "NICHT_JUGENDFREIE_INHALTE": {
+        "en-US": "NSFW Content",
+        "de-DE": "Nicht jugendfreie Inhalte",
+        "permission": "betterattack.punish.offend.nicht_jugendfreie_inhalte",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "4d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "2w",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "4w",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
+    "BELEIDIGENDE_SPRACHE": {
+        "en-US": "Offensive Language",
+        "de-DE": "Beleidigende / verletzende Sprache",
+        "permission": "betterattack.punish.offend.beleidigende_sprache",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "2h",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "6h",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "4d",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "1w",
+                "type": "ban"
+            }
+        ]
+    },
+    "POLITISCHE_INHALTE": {
+        "en-US": "Political Content",
+        "de-DE": "Politische Inhalte",
+        "permission": "betterattack.punish.offend.politische_inhalte",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "3d",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "2w",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "4w",
+                "type": "ban"
+            }
+        ]
+    },
+    "RASSISMUS": {
+        "en-US": "Racism",
+        "de-DE": "Rassismus",
+        "permission": "betterattack.punish.offend.rassismus",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "2w",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "4w",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
+    "HASS_HASSREDE": {
+        "en-US": "Hate Speech",
+        "de-DE": "Hass / Hassrede",
+        "permission": "betterattack.punish.offend.hass_hassrede",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "2d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "5d",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "2w",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "4w",
+                "type": "ban"
+            }
+        ]
+    },
+    "HANDEL_ECHTES_GELD": {
+        "en-US": "Real Money Trading",
+        "de-DE": "Handel mit echtem Geld",
+        "permission": "betterattack.punish.offend.handel_echtes_geld",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "4w",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
+    "SICHERHEITSBANN": {
+        "en-US": "Security Ban",
+        "de-DE": "Sicherheitsbann",
+        "permission": "betterattack.punish.offend.sicherheitsbann",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban",
+                "note": "High-Team entscheidet mit Erklärung"
+            }
+        ]
+    },
+    "SCAMMING_BETRUG": {
+        "en-US": "Scamming / Fraud",
+        "de-DE": "Scamming / Betrug",
+        "permission": "betterattack.punish.offend.scamming_betrug",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "1d",
+                "type": "ban",
+                "note": "Stuff zurückgeben"
+            },
+            {
+                "weight": 2,
+                "duration": "3d",
+                "type": "ban",
+                "note": "Stuff zurückgeben"
+            },
+            {
+                "weight": 3,
+                "duration": "1w",
+                "type": "ban",
+                "note": "Stuff zurückgeben"
+            },
+            {
+                "weight": 4,
+                "duration": "2w",
+                "type": "ban",
+                "note": "Stuff zurückgeben"
+            },
+            {
+                "weight": 5,
+                "duration": "4w",
+                "type": "ban",
+                "note": "Stuff zurückgeben"
+            }
+        ]
+    },
+    "SCHWERE_BELEIDIGUNGEN": {
+        "en-US": "Severe Insults",
+        "de-DE": "Schwere Beleidigungen",
+        "permission": "betterattack.punish.offend.schwere_beleidigungen",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "3w",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "4w",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
+    "SPAMMING": {
+        "en-US": "Spamming",
+        "de-DE": "Spamming",
+        "permission": "betterattack.punish.offend.spamming",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "1h",
+                "type": "mute"
+            },
+            {
+                "weight": 2,
+                "duration": "2h",
+                "type": "mute"
+            },
+            {
+                "weight": 3,
+                "duration": "2h",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "4h",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "6h",
+                "type": "ban"
+            }
+        ]
+    },
+    "DROHUNGEN": {
         "en-US": "Threats",
-        "permission": "betterattack.punish.offend.threats",
+        "de-DE": "Drohungen",
+        "permission": "betterattack.punish.offend.drohungen",
         "durations": [
             {
                 "weight": 1,
-                "duration": "1mo",
+                "duration": "permanent",
+                "type": "ban",
+                "note": "Staffel ausschluss"
+            },
+            {
+                "weight": 2,
+                "duration": "permanent",
+                "type": "ban"
+            }
+        ]
+    },
+    "TP_FALLEN": {
+        "en-US": "TP Traps",
+        "de-DE": "TP-Fallen",
+        "permission": "betterattack.punish.offend.tp_fallen",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "6h",
                 "type": "ban"
             },
             {
                 "weight": 2,
-                "duration": "6mo",
+                "duration": "16h",
                 "type": "ban"
             },
             {
                 "weight": 3,
-                "duration": "permanent",
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "2d",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "5d",
                 "type": "ban"
             }
         ]
     },
-    "SAFETY_BAN": {
-        "de-DE": "Sicherheits-Ban",
-        "en-US": "Safety Ban",
-        "permission": "betterattack.punish.offend.safety_ban",
+    "TROLLING": {
+        "en-US": "Trolling",
+        "de-DE": "Trolling",
+        "permission": "betterattack.punish.offend.trolling",
         "durations": [
             {
                 "weight": 1,
-                "duration": "permanent",
+                "duration": "2h",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "6h",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "16h",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "3d",
                 "type": "ban"
             }
         ]
     },
-    "SCAMMING": {
-        "de-DE": "Scamming",
-        "en-US": "Scamming",
-        "permission": "betterattack.punish.offend.scamming",
+    "SERVER_UEBERLASTUNG": {
+        "en-US": "Unnecessary Server Overload",
+        "de-DE": "Unnötige Überlastung des Servers",
+        "permission": "betterattack.punish.offend.server_ueberlastung",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "6h",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "18h",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "2d",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "3w",
+                "type": "ban"
+            }
+        ]
+    },
+    "RESPEKTLOSES_VERHALTEN": {
+        "en-US": "Disrespectful Behavior",
+        "de-DE": "Respektloses Verhalten",
+        "permission": "betterattack.punish.offend.respektloses_verhalten",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "15m",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "1h",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "2h",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "6h",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "12h",
+                "type": "ban"
+            }
+        ]
+    },
+    "MISSACHTUNG_CLAIMGRENZEN": {
+        "en-US": "Ignoring Claim Boundaries",
+        "de-DE": "Missachtung von Claimgrenzen",
+        "permission": "betterattack.punish.offend.missachtung_claimgrenzen",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "kick",
+                "type": "kick"
+            },
+            {
+                "weight": 2,
+                "duration": "1h",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "12h",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "3d",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "1w",
+                "type": "ban"
+            }
+        ]
+    },
+    "UNNOETIGES_TOETEN": {
+        "en-US": "Unnecessary Killing",
+        "de-DE": "Unnötiges Töten",
+        "permission": "betterattack.punish.offend.unnoetiges_toeten",
         "durations": [
             {
                 "weight": 1,
@@ -617,29 +746,229 @@
             },
             {
                 "weight": 3,
-                "duration": "1w",
+                "duration": "3d",
                 "type": "ban"
             },
             {
                 "weight": 4,
-                "duration": "1mo",
+                "duration": "1w",
                 "type": "ban"
             },
             {
                 "weight": 5,
+                "duration": "3w",
+                "type": "ban"
+            }
+        ]
+    },
+    "PVP_SHOPPING_DISTRIKT": {
+        "en-US": "PvP in Shopping District",
+        "de-DE": "PvP im Shopping-Distrikt",
+        "permission": "betterattack.punish.offend.pvp_shopping_distrikt",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "kick",
+                "type": "kick"
+            },
+            {
+                "weight": 2,
+                "duration": "2h",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "6h",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "12h",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "1d",
+                "type": "ban"
+            }
+        ]
+    },
+    "SPAMM_KILLING": {
+        "en-US": "Spam Killing",
+        "de-DE": "Spamm-Killing",
+        "permission": "betterattack.punish.offend.spamm_killing",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "kick",
+                "type": "kick"
+            },
+            {
+                "weight": 2,
+                "duration": "2h",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "6h",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "3d",
+                "type": "ban"
+            }
+        ]
+    },
+    "UNANGEBRACHTE_BAUTEN": {
+        "en-US": "Inappropriate Structures",
+        "de-DE": "Unangebrachte Bauten",
+        "permission": "betterattack.punish.offend.unangebrachte_bauten",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "kick",
+                "type": "kick"
+            },
+            {
+                "weight": 2,
+                "duration": "6h",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "3d",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "1w",
+                "type": "ban"
+            }
+        ]
+    },
+    "PROVOKATION_TEAM": {
+        "en-US": "Provoking a Team Member",
+        "de-DE": "Provokation eines Team-Mitgliedes",
+        "permission": "betterattack.punish.offend.provokation_team",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "kick",
+                "type": "kick"
+            },
+            {
+                "weight": 2,
+                "duration": "2h",
+                "type": "mute"
+            },
+            {
+                "weight": 3,
+                "duration": "4h",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "6h",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "8h",
+                "type": "ban"
+            }
+        ]
+    },
+    "SOUNDBOARD_SPAM": {
+        "en-US": "Soundboard / Music Spam",
+        "de-DE": "Soundboard / Musik Spam",
+        "permission": "betterattack.punish.offend.soundboard_spam",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "kick",
+                "type": "kick"
+            },
+            {
+                "weight": 2,
+                "duration": "2h",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "12h",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "3d",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "1w",
+                "type": "ban"
+            }
+        ]
+    },
+    "BANNUMGEHUNG_ZWEITACCOUNT": {
+        "en-US": "Ban Evasion (Second Account)",
+        "de-DE": "Bannumgehung (Zweitaccount)",
+        "permission": "betterattack.punish.offend.bannumgehung_zweitaccount",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "permanent",
+                "type": "ban",
+                "note": "Staffel ausschluss für den Zweitaccount"
+            },
+            {
+                "weight": 2,
+                "duration": "3w",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "4w",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
                 "duration": "permanent",
                 "type": "ban"
             }
         ]
     },
-    "POLITICAL_CONTENT": {
-        "de-DE": "Politische Inhalte",
-        "en-US": "Political Content",
-        "permission": "betterattack.punish.offend.political_content",
+    "HOMOPHOBIE": {
+        "en-US": "Homophobia",
+        "de-DE": "Homophobie",
+        "permission": "betterattack.punish.offend.homophobie",
         "durations": [
             {
                 "weight": 1,
-                "duration": "1d",
+                "duration": "1w",
+                "type": "ban"
+            }
+        ]
+    },
+    "NSFWPORNOGRAFIE": {
+        "en-US": "NSFW / Pornography",
+        "de-DE": "NSFW / Pornografie",
+        "permission": "betterattack.punish.offend.nsfw_pornografie",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "4d",
                 "type": "ban"
             },
             {
@@ -649,56 +978,228 @@
             },
             {
                 "weight": 3,
-                "duration": "1mo",
+                "duration": "3w",
                 "type": "ban"
             },
             {
                 "weight": 4,
+                "duration": "4w",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
                 "duration": "permanent",
                 "type": "ban"
             }
         ]
     },
-    "COMBAT_EVADING": {
-        "en-US": "Combat Evading",
-        "de-DE": "Umgehung eines Kampfes",
-        "permission": "betterattack.punish.offend.combat_evading",
+    "SUPPORT_ABUSE": {
+        "en-US": "Support Abuse",
+        "de-DE": "Support Abuse",
+        "permission": "betterattack.punish.offend.support_abuse",
         "durations": [
             {
                 "weight": 1,
-                "duration": "2d",
+                "duration": "4d",
                 "type": "ban"
             },
             {
                 "weight": 2,
-                "duration": "4d",
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "2w",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "3w",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "4w",
                 "type": "ban"
             }
         ]
     },
-    "EVENT_RULE_VIOLATION": {
-        "en-US": "Violating Event Rules",
-        "de-DE": "Verstoß gegen Event-Regeln",
-        "permission": "betterattack.punish.offend.event_rule_violation",
+    "COMMUNITY_EVENTS_SABOTIEREN": {
+        "en-US": "Sabotaging Community Events",
+        "de-DE": "Community-Events sabotieren",
+        "permission": "betterattack.punish.offend.community_events_sabotieren",
         "durations": [
             {
                 "weight": 1,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "3d",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "5d",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "1w",
+                "type": "ban"
+            }
+        ]
+    },
+    "MISSACHTUNG_CLAIM_HAUSVERBOT": {
+        "en-US": "Ignoring Claim Trespassing Ban",
+        "de-DE": "Missachtung von Claim Hausverbot",
+        "permission": "betterattack.punish.offend.missachtung_claim_hausverbot",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "kick",
+                "type": "kick"
+            },
+            {
+                "weight": 2,
                 "duration": "1h",
                 "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "4h",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "1w",
+                "type": "ban"
             }
         ]
     },
-    "PVP_ABUSE": {
-        "en-US": "PvP Abuse",
-        "de-DE": "PvP-Abuse",
-        "permission": "betterattack.punish.offend.pvp_abuse",
+    "XRAY": {
+        "en-US": "Xray",
+        "de-DE": "Xray",
+        "permission": "betterattack.punish.offend.xray",
         "durations": [
             {
                 "weight": 1,
-                "duration": "45m",
+                "duration": "3d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "2w",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "3w",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "4w",
+                "type": "ban"
+            }
+        ]
+    },
+    "AUTOTOTEM": {
+        "en-US": "Auto Totem",
+        "de-DE": "Autototem",
+        "permission": "betterattack.punish.offend.autototem",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "3d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "2w",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "3w",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "4w",
+                "type": "ban"
+            }
+        ]
+    },
+    "MACROS": {
+        "en-US": "Macros",
+        "de-DE": "Macros",
+        "permission": "betterattack.punish.offend.macros",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "3d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "3w",
+                "type": "ban"
+            }
+        ]
+    },
+    "MISSACHTUNG_PVP_REGELN": {
+        "en-US": "Ignoring PvP Rules",
+        "de-DE": "Missachtung von PvP-Regeln",
+        "permission": "betterattack.punish.offend.missachtung_pvp_regeln",
+        "durations": [
+            {
+                "weight": 1,
+                "duration": "1d",
+                "type": "ban"
+            },
+            {
+                "weight": 2,
+                "duration": "3d",
+                "type": "ban"
+            },
+            {
+                "weight": 3,
+                "duration": "1w",
+                "type": "ban"
+            },
+            {
+                "weight": 4,
+                "duration": "3w",
+                "type": "ban"
+            },
+            {
+                "weight": 5,
+                "duration": "4w",
                 "type": "ban"
             }
         ]
     }
-
 }
